@@ -6,7 +6,7 @@
 
 **You can't protect what you haven't measured.**
 
-[![Async 2026](https://img.shields.io/badge/ASYNC-2026-black?style=for-the-badge)](https://taupe-cat-0c2dbd.netlify.app/)
+(https://taupe-cat-0c2dbd.netlify.app/)
 [![Track](https://img.shields.io/badge/Track-Cybersecurity%20%26%20Defense-red?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Alpha-orange?style=for-the-badge)](#5-reliability-performance--security)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](#6-governance--license)
