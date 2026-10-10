@@ -491,14 +491,12 @@ The recovery-frontier methodology — positive/negative controls, leakage canari
 
 ## Team
 
-**Team KARMIN** · ASYNC 2026 · Cybersecurity & Defense Track
+**Team KARMIN** ·  · Cybersecurity & Defense Track
 
 | Role | Name | USN |
 |---|---|---|
 | Team Lead | Abhinava N. | 1MS25IM003 |
 | Member | Achal S | 1MS25AS002 |
-| Member | Uttham G | 1MS25IS133 |
-| Member | Sannidhi R Devadiga | 1MS25IS106 |
 
 ---
 
